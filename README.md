@@ -52,7 +52,7 @@
 <samp><a href="https://lakotafox.com/bird-id/">bird song id</a> — identifies birds from a live microphone &middot; transformers.js</samp><br>
 <samp><a href="https://lakotafox.com/lidar/">3d scanner</a> — photo &rarr; AI depth &rarr; 3D point cloud &rarr; .PLY export &middot; webgpu</samp><br>
 <samp><a href="https://foxbuiltstore.com">foxbuilt office furniture</a> — real store, real customers &middot; react</samp><br>
-<samp><a href="https://adventurecrafter.netlify.app">adventurecrafter</a> — AI-assisted tabletop adventure generator</samp><br>
+<samp><a href="https://adventurecrafter.netlify.app">adventurecrafter</a> — custom 2D game engine, real-time multiplayer world building</samp><br>
 <samp><a href="https://lakotafox.com">lakotafox.com</a> — the rest: games, maps, art, client sites &middot; react + vite</samp></p>
 
 <picture>
