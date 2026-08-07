@@ -2,7 +2,6 @@ name: refresh stats
 on:
   schedule:
     - cron: "17 5 * * *"
-    - cron: "0 10 * * *"   # temporary: first-run kick, remove after it fires
   workflow_dispatch:          # deliberately no `push` — this job commits, and
                               # a push trigger would re-run it on its own commit
 permissions:
