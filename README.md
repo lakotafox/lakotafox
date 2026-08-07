@@ -60,10 +60,6 @@
   <img src="svg/hd-certs-light.svg" width="820" alt="certs">
 </picture>
 
-<p><samp>google ai essentials &middot; ibm ai developer professional certificate (in&nbsp;progress) &middot; boot.dev — going for the arch&nbsp;mage coin</samp></p>
+<p><samp>google ai essentials &middot; ibm ai developer professional certificate</samp></p>
 
 <br>
-
-<sub>Skull: Patrick J. Lynch, medical illustrator, <a href="https://commons.wikimedia.org/wiki/File:Head_skull_anterior_view.jpg">CC BY 2.5</a>, redrawn as ASCII by <a href="scripts/generate_portrait.py">scripts/generate_portrait.py</a>.
-Type: JetBrains Mono, SIL OFL 1.1, subset and inlined into every SVG.
-Method: <a href="https://agreeable-credit-859.notion.site/A-GitHub-profile-that-generates-itself-3abedfe9a65a81e4afc9daed90cb4e7e">a GitHub profile that generates itself</a>.</sub>
